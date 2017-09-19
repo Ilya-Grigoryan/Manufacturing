@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_role_list">
+        <item>Մենեջեր</item>
+        <item>Առաքիչ</item>
+    </string-array>
+</resources>

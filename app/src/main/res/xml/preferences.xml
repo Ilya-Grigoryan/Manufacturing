@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory>
+        <ListPreference
+            android:key="user_role_list_preference"
+            android:title="@string/user_role"
+            android:entries="@array/user_role_list"/>
+    </PreferenceCategory>
+</PreferenceScreen>
