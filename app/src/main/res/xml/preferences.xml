@@ -4,6 +4,12 @@
         <ListPreference
             android:key="user_role_list_preference"
             android:title="@string/user_role"
-            android:entries="@array/user_role_list"/>
+            android:entries="@array/user_role_list_for_settings"
+            android:entryValues="@array/user_role_list"/>
+        <ListPreference
+            android:key="languages_list_preference"
+            android:title="@string/language"
+            android:entries="@array/language_list_for_settings"
+            android:entryValues="@array/language_list"/>
     </PreferenceCategory>
 </PreferenceScreen>

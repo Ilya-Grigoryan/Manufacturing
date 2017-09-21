@@ -4,4 +4,23 @@
         <item>Manager</item>
         <item>Sender</item>
     </string-array>
+
+    <string-array name="language_list">
+        <item>en</item>
+        <item>en</item>
+        <item>hy</item>
+    </string-array>
+
+
+    <string-array name="user_role_list_for_settings">
+        <item>Manager</item>
+        <item>Sender</item>
+    </string-array>
+
+    <string-array name="language_list_for_settings">
+        <item>Default</item>
+        <item>English</item>
+        <item>Armenian</item>
+    </string-array>
+
 </resources>
